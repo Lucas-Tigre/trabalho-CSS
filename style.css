@@ -74,18 +74,25 @@ body{
 }
 
 .servicos{
-
     margin: 0;
     display: flex;
 }
 
 .contato{
-
     margin: 0;
     display: flex;
 }
 
 /* rodape */
+
+
+.rodape{
+
+    display: flex;
+    background-color: #000000;
+    padding: 20px 0px;
+
+}
 
 .pr{
 
