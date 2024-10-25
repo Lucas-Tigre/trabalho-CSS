@@ -1,7 +1,7 @@
 
 /*corpo*/
 
-body{
+ body{
     margin: 0;
     padding: 0;
     font-family: arial, sans-serif;
@@ -25,6 +25,7 @@ body{
     height: 200px;
 }
 
+/*textos gerais*/
 .p{
 
     display: flex;
@@ -59,6 +60,7 @@ body{
 
 }
 
+/*subtitulos gerais*/
 .h2{
 
     height: 30px;
@@ -84,18 +86,13 @@ body{
 }
 
 /* rodape */
-
-
 .rodape{
-
     display: flex;
     background-color: #000000;
     padding: 20px 0px;
-
 }
 
 .pr{
-
     display: flex;
     color: aliceblue;
     height: 10px;
