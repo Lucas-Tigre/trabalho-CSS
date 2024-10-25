@@ -99,4 +99,5 @@ body{
     display: flex;
     color: aliceblue;
     height: 10px;
+    justify-content: center;
 }
