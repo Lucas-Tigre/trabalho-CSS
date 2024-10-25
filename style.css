@@ -11,8 +11,8 @@
 
 .header{
 
+    align-items: center;
     display: flex;
-    gap: 0;
     margin: 0;
     padding: 15px 20px ;
     background-color: rgb(255, 255, 255);
@@ -27,8 +27,6 @@
 
 /*textos gerais*/
 .p{
-
-    display: flex;
     color: #000000;
     height: 20px;
 }
@@ -37,6 +35,8 @@
 
     display: flex;
     background-color: rgb(255, 255, 255);
+    list-style: none;
+    padding: 0;
 }
 
 .inf{
@@ -49,7 +49,7 @@
 .main{
 
     display: flex;
-    margin: 0;
+    padding: 20;
 
 }
 
@@ -62,8 +62,6 @@
 
 /*subtitulos gerais*/
 .h2{
-
-    height: 30px;
     color: #000000;
     align-items: center;
 
@@ -90,11 +88,9 @@
     display: flex;
     background-color: #000000;
     padding: 20px 0px;
+    justify-content: center;
 }
 
 .pr{
-    display: flex;
     color: aliceblue;
-    height: 10px;
-    justify-content: center;
 }
