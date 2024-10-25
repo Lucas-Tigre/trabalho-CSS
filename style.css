@@ -1,1 +1,97 @@
 
+/*corpo*/
+
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: arial, sans-serif;
+
+}
+
+/* header */
+
+.header{
+
+    display: flex;
+    gap: 0;
+    margin: 0;
+    padding: 15px 20px ;
+    background-color: rgb(233, 240, 247);
+}
+
+.titulo{
+
+    justify-content: center;
+    color: rgb(126, 197, 255);
+    height: 200px;
+}
+
+.p{
+
+    display: flex;
+    color: #000000;
+    height: 20px;
+}
+
+.nav{
+
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+
+.inf{
+
+    align-items: start;
+    flex-direction: row-reverse;
+
+}
+
+.main{
+
+    display: flex;
+    margin: 0;
+
+}
+
+.home{
+
+    margin: 0;
+    display: flex;
+
+}
+
+.h2{
+
+    height: 30px;
+    color: #000000;
+    align-items: center;
+
+}
+
+.sobre{
+
+    margin: 0;
+    display: flex;
+}
+
+.servicos{
+
+    margin: 0;
+    display: flex;
+}
+
+.contato{
+
+    margin: 0;
+    display: flex;
+}
+
+/* rodape */
+
+.pr{
+
+    display: flex;
+    color: aliceblue;
+    height: 10px;
+}
