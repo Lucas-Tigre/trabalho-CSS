@@ -20,7 +20,7 @@
 
 .title{
 
-    justify-content: center;
+    justify-self: center;
     color: rgb(126, 197, 255);
     height: 200px;
 }
