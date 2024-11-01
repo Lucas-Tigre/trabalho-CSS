@@ -1,7 +1,8 @@
 
 /*corpo*/
 
- body{
+body{
+
     margin: 0;
     padding: 0;
     font-family: arial, sans-serif;
@@ -11,7 +12,7 @@
 
 .header{
 
-    align-items: center;
+    justify-self: center;
     display: flex;
     margin: 0;
     padding: 15px 20px ;
@@ -20,7 +21,6 @@
 
 .title{
 
-    justify-self: center;
     color: rgb(126, 197, 255);
     height: 200px;
 }
